@@ -1,13 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9DrT6EZJ)
 # Native App Development — Final Project
+This is Bookworm. This is an app for all readers, but particuarly, those who care to have notes for their reading sessions. This app functions as a reading tracker where a user can search a book, add it to a shelf, and log a reading session. In addition, from the profile tab a user can set reading goals for themselves. 
 
-Starter repository for NMIX 4030/6030. See the assignment page for full instructions.
+This app needs an API key for the Google Books API to run and from their the user can add the books they wanted to read, are currently reading, or have read to a shelf. 
 
-## What to submit
+From there or the reading log tab they can start a reading session where they can include the pages and time they read along with a reflection. These sessions are all stored on the reading log page. 
 
-Your repo should contain the following when you submit:
-
-- Your Xcode project folder (the complete app)
-- - `prompt.md` — your initial prompt (replace the placeholder)
-  - - `edits.md` — numbered list of manual adjustments (replace the placeholder)
-    - - `reflection.md` — 150-300 word reflection (replace the placeholder)
+On the profile page, a user can set goals for themselves based on the time or pages they wanted to read.
