@@ -2,6 +2,7 @@
 This is Bookworm. This is an app for all readers, but particuarly, those who care to have notes for their reading sessions. This app functions as a reading tracker where a user can search a book, add it to a shelf, and log a reading session. 
 
 ![Home screen](assets/HomeScreen.png)
+<img src ="assets/HomeScreen.png" width="200" height="300">
 
 ![Shelf View](assets/ShelfView.png)
 
