@@ -10,4 +10,4 @@ Trying to make a more developed app with various functions proved to be much mor
 
 ## Next Steps
 
-I would continue this app by adding more features and improving design features. I think some colors could stand out more. Additionally, making the app more customizable would it appeal to a wider variety of users. I also thought of the idea of adding a reward side to the app. For example, the worm in the logo could grow or be fed as the user hits their goals every day.
+I would continue this app by adding more features and improving design features. I think some colors could stand out more. Additionally, making the app more customizable would make it appeal to a wider variety of users. I also thought of the idea of adding a reward side to the app. For example, the worm in the logo could grow or be fed as the user hits their goals every day.

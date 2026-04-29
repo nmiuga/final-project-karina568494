@@ -4,19 +4,19 @@ This is Bookworm. This is an app for all readers, but particuarly, those who car
 <img src ="assets/HomeScreen.png" width="100" height="300"><img src ="assets/ShelfView.png" width="100" height="300">
 </p>
 
-This app needs an API key for the Google Books API to run and from their the user can add the books they wanted to read, are currently reading, or have read to a shelf. 
+This app needs an API key for the Google Books API to run and from there, the user can add the books they want to read, are currently reading, or have read to a shelf. 
 
 <p align="center">
 <img src ="assets/Search.png" width="100" height="300">
 </p>
 
-From there or the reading log tab they can start a reading session where they can include the pages and time they read along with a reflection. These sessions are all stored on the reading log page. 
+From a shelf or the reading log tab,a user can start a reading session where they can include the pages and time they read along with a reflection. These sessions are all stored on the reading log page. 
 
 <p align="center">
 <img src ="assets/ReadingLog.png" width="100" height="300">
 </p>
 
-On the profile page, a user can set goals for themselves based on the time or pages they wanted to read.
+On the profile page, a user can set goals for themselves based on the amount of time or pages they want to read.
 
 <p align="center">
 <img src ="assets/Profile.png" width="100" height="300">
